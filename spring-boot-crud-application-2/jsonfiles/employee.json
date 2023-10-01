@@ -1,0 +1,18 @@
+{
+   "fileName": "Abhishek",
+   "lastName": "Kushwah",
+   "address": [
+   {  
+   "street": "abc",
+   "city": "Seondha",
+   "state": "mp"
+   },
+   
+  {  
+   "street": "xyz",
+   "city": "Bhind",
+   "state": "mp"
+   }
+   ]
+   
+ }
